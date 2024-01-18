@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overby.LazyProps", "Overby.LazyProps\Overby.LazyProps\Overby.LazyProps.csproj", "{BAD052F8-0912-4B6D-91DF-14088C1171B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overby.LazyProps.Sample", "Overby.LazyProps\Overby.LazyProps.Sample\Overby.LazyProps.Sample.csproj", "{736C63C4-B731-471C-ADA8-61DEF05C2C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overby.LazyProps.Tests", "Overby.LazyProps\Overby.LazyProps.Tests\Overby.LazyProps.Tests.csproj", "{DF3179F8-8574-435C-9E38-7DC09E3C6654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B8707ED7-08DE-43C0-8BF3-BBA76E27BDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD052F8-0912-4B6D-91DF-14088C1171B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD052F8-0912-4B6D-91DF-14088C1171B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD052F8-0912-4B6D-91DF-14088C1171B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD052F8-0912-4B6D-91DF-14088C1171B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736C63C4-B731-471C-ADA8-61DEF05C2C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736C63C4-B731-471C-ADA8-61DEF05C2C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736C63C4-B731-471C-ADA8-61DEF05C2C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736C63C4-B731-471C-ADA8-61DEF05C2C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3179F8-8574-435C-9E38-7DC09E3C6654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3179F8-8574-435C-9E38-7DC09E3C6654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3179F8-8574-435C-9E38-7DC09E3C6654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3179F8-8574-435C-9E38-7DC09E3C6654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8707ED7-08DE-43C0-8BF3-BBA76E27BDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8707ED7-08DE-43C0-8BF3-BBA76E27BDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8707ED7-08DE-43C0-8BF3-BBA76E27BDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8707ED7-08DE-43C0-8BF3-BBA76E27BDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
